@@ -37,7 +37,7 @@ sudo apt-get update
 Install the tb-starter package and it's dependencies.
 
 ```sh
-sudo apt-get install tb-starter
+sudo apt-get install tb-starter tb-updater
 ```
 
 Finally, you need to add the following lines to the bottom of

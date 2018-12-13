@@ -14,8 +14,6 @@
 
 * [Automatic Browser Installation with Whonix tb-starter](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/WhonixBrowser.html)
 
-* [Automatic Browser Installation with Snap](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/SnapBrowser.html)
-
 * [Automatic Browser Installation with Docker](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/DockerBrowser.html)
 
 I2P can be downloaded [here](http://www.i2p2.de)
