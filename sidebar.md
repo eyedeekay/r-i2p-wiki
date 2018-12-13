@@ -10,6 +10,14 @@
 
 * [r/i2p Wiki](https://j-tt.github.io/r-i2p-wiki/)
 
+* [Automatic Browser Installation on Windows](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/WindowsTestingBrowser.html)
+
+* [Automatic Browser Installation with Whonix tb-starter](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/WhonixBrowser.html)
+
+* [Automatic Browser Installation with Snap](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/SnapBrowser.html)
+
+* [Automatic Browser Installation with Docker](https://j-tt.github.io/r-i2p-wiki/articles/browser-config/DockerBrowser.html)
+
 I2P can be downloaded [here](http://www.i2p2.de)
 
 # FAQ:
@@ -27,7 +35,7 @@ It's not recommended as that is not the main use of I2P, but you can. See inform
 For a more complete list of interesting I2P services, read the [Guide to I2P services](http://pastebin.com/xWzw10wW).
 
 ## General
-* [Main project site](http://i2p-projekt.i2p) 
+* [Main project site](http://i2p-projekt.i2p)
 * [I2P Forum](http://i2pforum.i2p) ([clearnet](https://i2pforum.net/)) Official I2P community and development forum
 * [zzz](http://zzz.i2p) zzz's personal website, old developers forum
 * [planet.i2p](http://planet.i2p) RSS aggregator

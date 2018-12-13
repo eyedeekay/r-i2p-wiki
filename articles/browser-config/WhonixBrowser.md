@@ -40,8 +40,19 @@ Install the tb-starter package and it's dependencies.
 sudo apt-get install tb-starter
 ```
 
-Once you have tb-starter installed, you can launch your new Tor Browser for i2p
-by running
+Finally, you need to add the following lines to the bottom of
+/etc/i2pbrowser.d/31\_i2p\_default.conf.
+
+```sh
+TOR_HIDE_UPDATE_CHECK_UI=1
+TOR_NO_DISPLAY_NETWORK_SETTINGS=1
+TOR_HIDE_BROWSER_LOGO=1
+TOR_SKIP_LAUNCH=1
+TOR_SKIP_CONTROLPORTTEST=1
+```
+
+Once you have tb-starter installed and your configuration prepared, you can
+launch your new Tor Browser for i2p by running
 
 ```sh
 i2pbrowser

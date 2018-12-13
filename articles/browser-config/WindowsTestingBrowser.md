@@ -14,6 +14,8 @@ Installation/Use:
 
 First, in order to use this browser profile, you will need to install Firefox if
 you have not already. You can get the latest version from [Mozilla's web site](https://www.mozilla.org/en-US/firefox/new/).
+You can also use a Tor Browser Bundle if it is installed to the default
+directory used by the Tor Browser for Windows.
 
 Next, you should download this [this .exe installer](https://github.com/eyedeekay/firefox.profile.i2p/releases/download/current/install-i2pbrowser.exe)(URL: https://github.com/eyedeekay/firefox.profile.i2p/releases/download/current/install-i2pbrowser.exe)
 and run it. It should detect your Firefox application automatically and
