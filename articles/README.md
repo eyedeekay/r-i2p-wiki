@@ -8,7 +8,8 @@ Configuring an i2p browser
   i2p browsing profile with Firefox for Windows automatically. By @eyedeekay
   * **[Configuration of Whonix i2pbrowser profile on Debian-Based GNU/Linux](browser-config/WhonixBrowser.md)** Use
   Whonix-based Tor/i2p Browser Management Tools with i2p. By @eyedeekay
-
+  * **[I2P Browser Image for Docker Users](browser-config/DockerBrowser.md)** Use a Docker Container to securely
+  run your(TBB-powered) i2p browser in a container. By @eyedeekay
 
 Configuring services with Docker and i2pd ([index](i2p-docker-services/README.md))
 -----------------------------------------------------
