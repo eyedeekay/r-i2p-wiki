@@ -50,4 +50,3 @@ version of the container.
 
 In order to examine or build the upstream package locally, see:
 [eyedeekay/tbb-docker](https://github.com/eyedeekay/tbb-docker).
-
